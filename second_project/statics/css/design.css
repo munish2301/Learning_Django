@@ -1,0 +1,9 @@
+h1{
+  color: grren;
+}
+table,thead,tr{
+  border: 2px solid skyblue;
+}
+td{
+  color: gray;
+}
